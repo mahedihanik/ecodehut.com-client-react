@@ -1,0 +1,113 @@
+
+@media (max-width: 575.98px) {
+    .topBannerTitle{
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        color: #a7ffeb;
+        font-size: 25px;
+        margin-top: 4rem;
+    }
+    .topBannerSubTitle{
+        font-family: Raleway , sans-serif;
+        font-weight: 400;
+        color:#ffff8d;
+        font-size: 19px;
+    }
+    .analysisChart{
+        margin-right: 3rem;
+    }
+    .countNumber{
+        color: #ffffff;
+        font-family: Montserrat, sans-serif;
+        font-weight: 600;
+        font-size: 28px;
+    }
+    .countTitle{
+        color: #ffffff;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .summaryBanner{
+        min-height: 550px;
+    }
+    .summaryBannerOverlay{
+        min-height: 550px;
+    }
+    .courseTitle{
+        margin-top: 6%;
+
+    }
+    .videoCard{
+
+        padding: 2rem 2rem 2rem 2rem;
+    }
+    courseDivMargin{
+        margin-bottom: 15rem ;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .topBannerTitle{
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        color: #a7ffeb;
+        font-size: 30px;
+    }
+    .countNumber{
+        color: #ffffff;
+        font-family: Montserrat, sans-serif;
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .countTitle{
+        color: #ffffff;
+        font-family: Raleway, sans-serif;
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .summaryBanner{
+        min-height: 580px;
+    }
+    .summaryBannerOverlay{
+        min-height: 580px;
+    }
+    .analysisChart{
+        margin-right: 40%;
+    }
+    .courseTitle{
+        margin-top: 6%;
+
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .topBannerTitle{
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        color: #a7ffeb;
+        font-size: 32px;
+    }
+    .countSectionTop{
+        margin-top: 28%;
+    }
+    .courseTitle{
+        margin-top: 6%;
+
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+
+@media (min-width: 1200px) {
+
+}

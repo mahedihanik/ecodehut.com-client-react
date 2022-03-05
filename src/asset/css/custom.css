@@ -1,0 +1,362 @@
+.loaderAnimation{
+
+}
+.topFixedBanner{
+    background-image: url("../images/topfixedimage.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topBannerOverlay{
+    position: absolute;
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+}
+
+.topContent{
+    margin-top: 10rem;
+}
+.topBannerTitle{
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    color: #a7ffeb;
+    font-size: 45px;
+}
+.topBannerSubTitle{
+    font-family: Raleway , sans-serif;
+    font-weight: 400;
+    color:#ffff8d;
+    font-size: 22px;
+}
+.serviceCard{
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+.serviceCard:hover {
+    box-shadow: 0 8px 16px 3px rgba(0,0,0,0.3);
+}
+.commonMainTitle{
+    color: orangered;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family: Montserrat , sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+.serviceName{
+    font-family: Raleway , sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+.serviceDes{
+    font-family: Raleway , sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 1rem;
+    color: darkslategray;
+}
+.navTitle{
+    text-decoration: none !important;
+    font-family:Orbitron,sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #ffffff !important;
+}
+.navTitleScroll{
+    text-decoration: none !important;
+    font-family:Orbitron,sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000 !important;
+}
+.navBackground{
+    -webkit-transition:  background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: rgba(0,0,0,0.2) !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.navBackgroundScroll{
+    -webkit-transition:  background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: #ffffff !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navBarItemTitle{
+    text-decoration: none !important;
+    font-size: 16px;
+    font-family:Montserrat,sans-serif;
+    font-weight: 400;
+    color: #ffffff ;
+}
+.navBarItemTitleScroll{
+    text-decoration: none !important;
+    font-size: 16px;
+    font-family:Montserrat,sans-serif;
+    font-weight: 400;
+    color: #000000 !important;
+}
+.techDes{
+    font-family: Raleway , sans-serif;
+    color: darkslategray;
+    font-weight: 400;
+    font-size: 14px;
+}
+.summaryBanner{
+    background-image: url("../images/summary.jpg");
+    min-height: 525px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.summaryBannerOverlay{
+    position: absolute;
+    min-height: 525px;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+}
+.summarySectionMarginTop{
+    margin-top: 5rem;
+}
+.countNumber{
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+.countTitle{
+    color: #ffffff;
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+.countSectionTop{
+    margin-top: 25%;
+}
+.cardSummaryTitle{
+    font-family: Raleway , sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000000;
+}
+.cardSummarySubTitle{
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+.iconBulletSummaryCard{
+    color: #0b51c5;
+    font-size: 16px;
+}
+.summaryWorkCard{
+    margin-top: 14%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 2px;
+}
+.RProjectCardImage{
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 3px 20px 7px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 0px 3px 20px 7px rgba(0,0,0,0);
+}
+.RProjectCardButton{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.RProjectCard{
+
+    margin: 2px 2px 2px 2px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.RProjectCardTitle{
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.RProjectCardDes{
+    font-family: Raleway , sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: darkslategrey;
+}
+.CourseImage{
+    width: 100%;
+}
+.courseTitle{
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+.courseDes{
+    font-family: Raleway, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.CourseDetailsLink{
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none !important;
+    color: crimson;
+}
+.videoCard{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 6rem 3rem 6rem 3rem;
+    margin: 50px auto;
+}
+.playButton{
+    color: crimson;
+    cursor: pointer;
+    font-size: 70px;
+}
+.videoTitle{
+    color: crimson;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+}
+.videoDes{
+    color: darkslategray;
+    font-family: Raleway , sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.circleImageCarousal{
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    border: 1px solid crimson;
+    border-radius: 50%;
+}
+.clientReviewTitle{
+    font-family: Raleway , sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+.clientReviewDes{
+    font-family: Raleway , sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 1rem;
+    color: darkslategray;
+}
+.footerSection{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin-top: 5rem;
+
+}
+.footerTitle{
+    font-family: Raleway , sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+.footerItemName{
+    font-family: Raleway , sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: darkslategray;
+}
+.footerSocialLink{
+    text-decoration: none !important;
+    color: crimson;
+    font-family: Raleway , sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+.footerSocialLinkFb:hover {
+    text-decoration: none !important;
+}
+.copyWriteSection{
+    padding: 20px 20px 20px 20px;
+    background-color: crimson;
+}
+.copyWriteSectionText{
+    color: white !important;
+    text-decoration: none !important;
+}
+.topFixedBannerPage{
+    background-image: url("../images/topfixedimage.jpg");
+    min-height: 280px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topBannerOverlayPage{
+    position: absolute;
+    min-height: 280px;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+}
+
+.topContentPage{
+    margin-top: 9rem;
+}
+.topBannerTitlePage{
+    font-family: Raleway , sans-serif;
+    font-weight: 400;
+    color:#ffff8d;
+    font-size: 30px;
+}
+
+.aboutTitle{
+    color: #2b2b2b;
+    font-family: Montserrat, sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+}
+.aboutDes{
+    color: #2b2b2b;
+    font-family: Raleway , sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.radarTopFont{
+    font-family: Orbitron,sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    color: #2b2b2b;
+}
+.projectDetailsImg{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.projectDetailsBtn{
+ text-decoration: none !important;
+    color: white !important;
+}
+.countNumberCourse{
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+.countTitleCourse{
+    color: #000000;
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+.courseDetailsLink{
+    text-decoration: none !important;
+    color: crimson !important;
+}
+.courseCounterDiv{
+    padding: 1rem 1rem 1rem 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 0rem auto;
+}
